@@ -55,3 +55,7 @@ a:hover {
 .innerlink:hover {
   background-color: #fbfbfb;
 }
+
+i{
+  margin-right: 20px;
+}
