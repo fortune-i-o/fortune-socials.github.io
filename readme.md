@@ -1,4 +1,4 @@
-# Custom Linktree
+# fortune-i-o socials
 
 Hello there! I’m Fortune, an aspiring web developer. I created this custom linktree website to provide links to my social media accounts. Please check it out and follow me. Thanks!
 
