@@ -69,12 +69,5 @@ i {
 .social-link:hover {
   background-color: var(--off-white, #fbfbfb);
   color: var(--link-hover, #000000);
-}
-
-@media (max-width: 48em) {
-  .container {
-    margin: 1rem auto 1.25rem;
-    margin-top: clamp(1rem, 2rem + 10vh, 3rem);
-    margin-bottom: clamp(1rem, 2rem + 10vh, 3rem);
-  }
+  outline: none;
 }
