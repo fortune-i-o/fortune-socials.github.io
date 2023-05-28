@@ -22,6 +22,7 @@ Hello there! I’m Fortune, a web developer. I created this custom linktree webs
 │ ├─ css/
 │ └─ images/
 ├─ screenshots/
-├─ index.html
-└─ README.md
+├─ README.md
+├─ favicon.png
+└─ index.html
 ```

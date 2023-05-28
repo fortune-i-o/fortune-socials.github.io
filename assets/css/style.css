@@ -73,3 +73,12 @@ i {
     margin-bottom: clamp(1rem, 2rem + 10vh, 3rem);
   }
 }
+
+@media only screen and (min-width: 26em) and (orientation: portrait) and (max-width: 64em) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+  }
+}
