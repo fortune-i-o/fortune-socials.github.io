@@ -4,7 +4,7 @@ Hello there! I’m Fortune, a web developer. I created this custom linktree webs
 
 - Live Site URL: [fortune-io-socials.pages.dev](https://fortune-io-socials.pages.dev "Fortune O. Iyoha | Socials")
 
-### Screenshot
+## Screenshot
 
 ![website preview](screenshots/fortune-io-socials-desktop.png)
 
